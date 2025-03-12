@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm tunisianberet!
 
-<!--
-**tunisianberet/tunisianberet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+- 🇹🇳 From Tunisia  
+- 🖥️ New to GitHub and coding  
+- 🎓 Learning computer science and exploring programming  
+- 🚀 Excited to build and grow my skills  
 
-Here are some ideas to get you started:
+## 🔧 What I'm Working On
+- Practicing coding basics  
+- Exploring different programming languages  
+- Learning how to contribute to open-source projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 💬 Always open to advice and guidance!  
+- 🛠️ Let's learn and build together  
+
+Thanks for stopping by! 😊  
